@@ -70,6 +70,88 @@ This image shows that Karen's ticket creation was successful.
 
 
 <p>
+<img src="https://i.imgur.com/Sn7vYcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev-a jane priority level change.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/Ru5YmJM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+jane doe team assignment.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/Rk8vu8U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sla plan update.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/GhC3Keg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Sev-a department transfer.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/KU3XUgI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev a reply.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/W5RF8r3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev a ticket resolution
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/VxURpQF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev-b team assign.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/czW9Q5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev-b reply.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/dE50AjR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+sev-b response
+</p>
+<br />
+
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -86,6 +168,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
