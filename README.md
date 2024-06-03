@@ -55,7 +55,7 @@ This image shows that Karen's ticket creation was successful.
 <img src="https://i.imgur.com/piHvIH8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Second,I created a ticket using Ken with a SEV-B sla plan. The help topic is personal computer issues and the issue is that, after the adobe upgrade nobody in accounting can't access it.
+ I created the second ticket using the customer Ken. The help topic is personal computer issues and the issue is that, after the adobe upgrade nobody in accounting can't access it.
 </p>
 <br />
 
@@ -64,8 +64,8 @@ This image shows that Karen's ticket creation was successful.
 <img src="https://i.imgur.com/LiS7Gg7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- The final ticket that was made was by customer karen. The help topic is general inquiry and sla plan is SEV-C. The client need a hardware refresh.
-</p>
+</p> 
+This ticket that was made was by customer karen. The help topic is general inquiry and sla plan is SEV-C. The client is in need of a hardware refresh . 
 <br />
 
 
@@ -73,7 +73,7 @@ This image shows that Karen's ticket creation was successful.
 <img src="https://i.imgur.com/Sn7vYcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev-a jane priority level change.
+After the ticket was opened,I updated the priority level  
 </p>
 <br />
 
@@ -203,21 +203,5 @@ sev c sla plan.
 </p>
 <p>
 Sev-c resolution.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
