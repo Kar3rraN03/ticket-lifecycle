@@ -82,7 +82,7 @@ After the ticket was opened,I updated the priority level
 <img src="https://i.imgur.com/Ru5YmJM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After updating the priority level we have to assign the ticket to a team member.For this ticket we're assigning it to Jane Doe.
+Next step is updating the priority level we have to assign the ticket to a team member.For this ticket we're assigning it to Jane Doe.
 </p>
 <br />
 
@@ -91,7 +91,7 @@ After updating the priority level we have to assign the ticket to a team member.
 <img src="https://i.imgur.com/Rk8vu8U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sla plan update.
+Following after the the assignee, the next step is to update the SLA plan to SEV-A due to the priority level being an emergency.This tells us this ticket needs to be worked on first,
 </p>
 <br />
 
