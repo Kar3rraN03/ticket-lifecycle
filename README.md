@@ -73,7 +73,7 @@ This ticket that was made was by customer karen. The help topic is general inqui
 <img src="https://i.imgur.com/Sn7vYcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the ticket was opened,I updated the priority level  
+After the ticket was opened,I updated the priority level to emergency
 </p>
 <br />
 
@@ -91,7 +91,7 @@ Next step is updating the priority level we have to assign the ticket to a team 
 <img src="https://i.imgur.com/Rk8vu8U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Following after the the assignee, the next step is to update the SLA plan to SEV-A due to the priority level being an emergency.This tells us this ticket needs to be worked on first,
+Following after the the assignee, the next step is to update the SLA plan to SEV-A due to the priority level being an emergency.This tells us this ticket needs to be worked on first.
 </p>
 <br />
 
@@ -100,7 +100,7 @@ Following after the the assignee, the next step is to update the SLA plan to SEV
 <img src="https://i.imgur.com/GhC3Keg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Sev-a department transfer.
+ Due to how critical the ticket is, now the ticket has to be transferred to the system administrator.
 </p>
 <br />
 
