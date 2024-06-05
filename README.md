@@ -73,7 +73,7 @@ This ticket that was made was by customer karen. The help topic is general inqui
 <img src="https://i.imgur.com/Sn7vYcU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the ticket was opened,I updated the priority level to emergency
+After I was done creating the tickets, I signed into Jane Doe's account to start working on the first ticket. When the ticket was opened I clicke on priority level and updated it to emergency.
 </p>
 <br />
 
@@ -109,7 +109,7 @@ Following after the the assignee, the next step is to update the SLA plan to SEV
 <img src="https://i.imgur.com/KU3XUgI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev a reply.
+Next thing I did was posted a reply to update the customer about the progress of their ticket.
 </p>
 <br />
 
@@ -118,7 +118,7 @@ sev a reply.
 <img src="https://i.imgur.com/W5RF8r3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev a ticket resolution
+When the resolution was found, I updated the customer about what was goig on with their ticket then, I clicked resolved.
 </p>
 <br />
 
@@ -128,17 +128,16 @@ sev a ticket resolution
 <img src="https://i.imgur.com/8ROr4St.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev b priority level
+For the next ticket, I used the agent Jane Doe to start working on the next ticket about personal computer issues. This ticket is going to be resolved in a similar way to the previous ticket. First step is the change the priority level to high.
 </p>
 <br />
-
 
 
 <p>
 <img src="https://i.imgur.com/yn1u8hG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev b sla plan
+Second I updated the SLA plan to SEV-B
 </p>
 <br />
 
@@ -147,7 +146,7 @@ sev b sla plan
 <img src="https://i.imgur.com/VxURpQF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev-b team assign.
+Next I assigned the ticket to John Doe which is the next agent I will be using 
 </p>
 <br />
 
@@ -156,7 +155,7 @@ sev-b team assign.
 <img src="https://i.imgur.com/czW9Q5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev-b reply.
+For this step, I had to update the client about the progress of their ticket. This update is specifically about the agent change.
 </p>
 <br />
 
@@ -165,7 +164,7 @@ sev-b reply.
 <img src="https://i.imgur.com/dE50AjR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev-b response
+Lastly, I logged into John Doe and updated the client about the status of their ticket which is resolved. ( I forgot to change to ticket status i the bottom to resolve. I had screenshot it again changed but i can''t find the screenshot) 
 </p>
 <br />
 
@@ -175,7 +174,7 @@ sev-b response
 <img src="https://i.imgur.com/Ncgfle3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev-c priority.
+For this ticket I logged into Jane doe and Updated the priority level to low.
 </p>
 <br />
 
@@ -184,7 +183,7 @@ sev-c priority.
 <img src="https://i.imgur.com/n1zgW5I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-c assign.
+Next I assigned the ticket to the agent logged in which is Jane Doe.
 </p>
 <br />
 
@@ -193,7 +192,7 @@ Sev-c assign.
 <img src="https://i.imgur.com/NYXn2Si.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-sev c sla plan.
+The third step is to change the SLA plan to SEV-C.
 </p>
 <br />
 
@@ -202,6 +201,6 @@ sev c sla plan.
 <img src="https://i.imgur.com/qEdrMSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sev-c resolution.
+The last step is to update the client about the progress of the ticket and what was found. The customer received the news of the ticket being resolved.
 </p>
 <br />
